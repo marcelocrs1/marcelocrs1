@@ -21,7 +21,7 @@
  
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marcelocrs/)   [<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>](https://github.com/marcelocrs1)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:marceloramos.dev@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marcelocrs/)   [<img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png"/>](https://github.com/marcelocrs1)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:marceloramos.dev@gmail.com)
 
 
 
