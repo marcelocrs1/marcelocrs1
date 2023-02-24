@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hello world! I am Marcelo Santos! <br><br>
-🖥️ Front-end Dev - UX/UI Design!<br><br>🗺️ I Am From Niterói - RJ, Brazil, currently living in Porto, Portugal<br><br>📚 JavaScript, VUE, Figma, Photoshop.
+🖥️ Front-end Dev - UX/UI Design!<br><br>🗺️ I Am From Niterói - RJ, Brazil, currently living in Porto, Portugal<br><br>📚 VueJS, Figma, Photoshop.
 
 
 ## 🌐 Socials:
