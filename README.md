@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>Hello world! I am Marcelo Santos!<br><br>🖥️ Fullstack Dev - UX/UI Design!<br><br>🗺️ I Am From Niterói - RJ, Brazil, currently living in Sligo, Ireland<br><br>📚 C#, VueJS, Python, Figma, Photoshop.
+💫 About Me:<br><br>Hello world! I am Marcelo Santos!<br><br>🖥️ Product Design Executive & Developer!<br><br>🗺️ I Am From Niterói - RJ, Brazil, currently living in Sligo, Ireland<br><br>📚 C#, VueJS, Python, Figma, Photoshop.
 
 
 ## 🌐 Socials:
