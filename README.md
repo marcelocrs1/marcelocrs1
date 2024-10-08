@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelocrs1&label=Profile%20views&color=0e75b6&style=flat" alt="marcelocrs1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelocrs1" alt="marcelocrs1" /></a> </p>
-
 - 🔭 I’m currently working on **Tantek4D Digital Twin**
 
 - 🌱 I’m currently looking to improve **my skillset and grow as a developer.**
@@ -24,5 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelocrs1&show_icons=true&locale=en&layout=compact" alt="marcelocrs1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelocrs1&show_icons=true&locale=en" alt="marcelocrs1" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelocrs1" alt="marcelocrs1" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelocrs1&" alt="marcelocrs1" /></p>
